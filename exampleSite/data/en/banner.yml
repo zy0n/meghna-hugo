@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/gunbotbg.webp"
   bg_image : "images/backgrounds/gunbotbg.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Official GUNBOT Reseller!"
-  content : "24/7 Automated Trading!    130+ Exchanges supported!! "
+  title : "Emotionless Automated Trading 24/7"
+  content : "GUNBOT: 130+ Exchanges supported! Gigantic Online Community!! Fantastic Online Support!!!"
   button:
     enable : true
-    label : "Learn More"
+    label : "BUY GUNBOT NOW"
     link : "#services"
