@@ -1,10 +1,10 @@
 ############################# About ###################################
 about:
   enable : true
-  title : What makes up the GUNTHY Community?
+  title : Why GUNBOT
   about_item :
   - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-    title : GUNBOT
+    title : 
     content : A complete solution for crypto trading. Installed securely on your desktop or server. You CONTROL your api Keys, not some cloud-based bot company. Comes with PRE-Built Strategies. Creating New and Editing strategies is a breeze! 
 
   - icon : ti-wallet # themify icon pack : https://themify.me/themify-icons
