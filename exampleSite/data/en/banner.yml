@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Forget Emotions when trading CRYPTO!"
-  content : "Explore the world of Algorithmic Trading."
+  title : "Got Gunbot?"
+  content : "24/7 Automated Trading! 130+ Exchanges supported!! "
   button:
     enable : true
-    label : "Explore Us"
-    link : "#services"
+    label : "View Demo"
+    link : "https://demo.gunthy.org"
