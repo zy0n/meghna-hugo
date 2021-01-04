@@ -8,8 +8,7 @@ themesDir = "../.."
 title = "Official Gunbot Reseller"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Home"
+copyright = "zy0n was here"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
