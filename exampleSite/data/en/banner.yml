@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "BUY GUNBOT NOW"
-    link : "#services"
+    link : "#pricing"

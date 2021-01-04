@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : What makes up the GUNTHY Community?
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+    title : GUNBOT
+    content : A complete solution for crypto trading. Installed securely on your desktop or server. You CONTROL your api Keys, not some cloud-based bot company. Comes with PRE-Built Strategies. Creating New and Editing strategies is a breeze! 
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-wallet # themify icon pack : https://themify.me/themify-icons
+    title : GUNTHY Token
+    content : The licensing system for our products is powered by our own ERC-20 utility token called GUNTHY. GUNTHY token provides a monetary value to licenses, allows for easy upgrades, and provides a fast, easy and secure way for YOU to self manage your exchange keys.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-bar-chart-alt # themify icon pack : https://themify.me/themify-icons
+    title : GUNTHY Exchange
+    content : As many of you were witness of many exchanges doing exit-scam with no consequences, we decided to do something about it! GUNTHY LTD launched its exchange, one that you can trust as you trust your Gunbot!
