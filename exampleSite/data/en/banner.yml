@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/gunbotbg.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : ""
-  content : "Trade without EMOTIONS! Automatically 24/7!! 130+ Exchanges Supported!!!"
+  content : ""
   button:
     enable : true
     label : "BUY GUNBOT NOW"
