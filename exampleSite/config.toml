@@ -28,13 +28,13 @@ pre = "#"
 url = "contact"
 weight = 3
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "zy0n"
+description = "Official GUNBOT Reseller webpage."
 google_analytics_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.map]
 enable = false
