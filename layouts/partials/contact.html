@@ -37,9 +37,8 @@
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<script type="text/javascript">var submitted=false;</script>
-				<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/contact';}"></iframe>
-				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form" onsubmit="submitted=true;">
+				
+				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form">
 					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" class="form-control" name="{{ .nameid }}" id="name">
 					</div>
