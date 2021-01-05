@@ -8,18 +8,18 @@ pricing:
       price : Ƀ 0.01
       unit : ɃTC
       services:
-        - ✅  - 1 API Slot
-        - ✅  All Supported Exchanges
-        - ✅  Unlimited Pairs
-        - ✅  Unlimited Trade
-        - ✅  Limited Trading Strategies
-        - 🚫  Margin Trading
-        - 🚫  Confirming Indicators
-        - 🚫  Additional Trailing
-        - 🚫  Dollar Cost Average
-        - 🚫  Reversal Trading
-        - 🚫  Backtesting
-        - 🚫  TradingView Alerts
+        - ✅  -  1 API Slot
+        - ✅  -  All Supported Exchanges
+        - ✅  -  Unlimited Pairs
+        - ✅  -  Unlimited Trade
+        - ✅  -  Limited Trading Strategies
+        - 🚫  -  Margin Trading
+        - 🚫  -  Confirming Indicators
+        - 🚫  -  Additional Trailing
+        - 🚫  -  Dollar Cost Average
+        - 🚫  -  Reversal Trading
+        - 🚫  -  Backtesting
+        - 🚫  -  TradingView Alerts
       button:
         label : "BUY Starter"
         link : "#"
@@ -29,18 +29,18 @@ pricing:
       price : Ƀ 0.025
       unit : ɃTC
       services:
-        - ✅  1 API Slot
-        - ✅  All Supported Exchanges
-        - ✅  Unlimited Pairs
-        - ✅  Unlimited Trade
-        - ✅  All Trading Strategies
-        - ✅  Margin Trading
-        - ✅  Confirming Indicators
-        - ✅  Additional Trailing
-        - ✅  Dollar Cost Average
-        - ✅  Reversal Trading
-        - 🚫  Backtesting
-        - 🚫  TradingView Alerts
+        - ✅  -  1 API Slot
+        - ✅  -  All Supported Exchanges
+        - ✅  -  Unlimited Pairs
+        - ✅  -  Unlimited Trade
+        - ✅  -  All Trading Strategies
+        - ✅  -  Margin Trading
+        - ✅  -  Confirming Indicators
+        - ✅  -  Additional Trailing
+        - ✅  -  Dollar Cost Average
+        - ✅  -  Reversal Trading
+        - 🚫  -  Backtesting
+        - 🚫  -  TradingView Alerts
       button:
         label : "BUY Standard"
         link : "#"
@@ -50,18 +50,18 @@ pricing:
       price : Ƀ 0.0375
       unit : ɃTC
       services:
-        - ✅  3 API Slots
-        - ✅  All Supported Exchanges
-        - ✅  Unlimited Pairs
-        - ✅  Unlimited Trade
-        - ✅  All Trading Strategies
-        - ✅  Margin Trading
-        - ✅  Confirming Indicators
-        - ✅  Additional Trailing
-        - ✅  Dollar Cost Average
-        - ✅  Reversal Trading
-        - ✅  Backtesting
-        - 🚫  TradingView Alerts
+        - ✅  -  3 API Slots
+        - ✅  -  All Supported Exchanges
+        - ✅  -  Unlimited Pairs
+        - ✅  -  Unlimited Trade
+        - ✅  -  All Trading Strategies
+        - ✅  -  Margin Trading
+        - ✅  -  Confirming Indicators
+        - ✅  -  Additional Trailing
+        - ✅  -  Dollar Cost Average
+        - ✅  -  Reversal Trading
+        - ✅  -  Backtesting
+        - 🚫  -  TradingView Alerts
       button:
         label : "BUY PRO"
         link : "#"
@@ -71,18 +71,18 @@ pricing:
       price : Ƀ 0.0625
       unit : ɃTC
       services:
-        - ✅  3 API Slots
-        - ✅  All Supported Exchanges
-        - ✅  Unlimited Pairs
-        - ✅  Unlimited Trade
-        - ✅  All Trading Strategies
-        - ✅  Margin Trading
-        - ✅  Confirming Indicators
-        - ✅  Additional Trailing
-        - ✅  Dollar Cost Average
-        - ✅  Reversal Trading
-        - ✅  Backtesting
-        - ✅  TradingView Alerts
+        - ✅  -  3 API Slots
+        - ✅  -  All Supported Exchanges
+        - ✅  -  Unlimited Pairs
+        - ✅  -  Unlimited Trade
+        - ✅  -  All Trading Strategies
+        - ✅  -  Margin Trading
+        - ✅  -  Confirming Indicators
+        - ✅  -  Additional Trailing
+        - ✅  -  Dollar Cost Average
+        - ✅  -  Reversal Trading
+        - ✅  -  Backtesting
+        - ✅  -  TradingView Alerts
       button:
         label : "BUY Ultimate"
         link : "#"
