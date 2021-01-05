@@ -47,7 +47,7 @@ pricing:
         
     # pricing table loop
     - name : Pro
-      price : Ƀ 0.038
+      price : Ƀ 0.0375
       unit : ɃTC
       services:
         - ✅  3 API Slots
@@ -68,7 +68,7 @@ pricing:
         
     # pricing table loop
     - name : Ultimate
-      price : Ƀ 0.063
+      price : Ƀ 0.0625
       unit : ɃTC
       services:
         - ✅  3 API Slots
