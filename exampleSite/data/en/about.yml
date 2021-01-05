@@ -11,10 +11,10 @@ about:
     title : GUNTHY Token
     content : The licensing system for our products is powered by our own ERC-20 utility token called GUNTHY. GUNTHY token provides a monetary value to licenses, allows for easy upgrades, and provides a fast, easy and secure way for YOU to self manage your exchange keys.
 
-  - icon : ti-bar-chart-alt # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
     title : GUNTHY Exchange
     content : As many of you were witness of many exchanges doing exit-scam with no consequences, we decided to do something about it! GUNTHY LTD launched its exchange, one that you can trust as you trust your Gunbot!
   
-  - icon : ti-bar-chart-alt # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-home # themify icon pack : https://themify.me/themify-icons
     title : GUNBOT University
     content : A place to learn about the gunbot. More info to come
