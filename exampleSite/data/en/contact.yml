@@ -2,22 +2,19 @@
 contact:
   enable : true
   title : Contact Reseller
-  subtitle : Details
+  subtitle : Zy0NBear's Details
   content : 
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Timezone: UTC-5"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Telegram: @zy0nbear"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: zy0n.bear@protonmail.com"
 
 
   # Contact form
