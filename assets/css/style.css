@@ -111,6 +111,7 @@ a:hover {
 
 .btn-transparent {
   border: 1px solid #4e595f;
+  background-color: rgba(0,0,0,0.5);
   font-weight: bold;
 }
 
