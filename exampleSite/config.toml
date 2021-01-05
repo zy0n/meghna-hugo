@@ -23,22 +23,22 @@ pre = "#"
 url = "pricing"
 weight = 2
 [[Languages.en.menu.main]]
+name = "Addons"
+pre = "#"
+url = "contact"
+weight = 3
+[[Languages.en.menu.main]]
+name = "GUNTHY Exchange"
+pre = "#"
+url = "contact"
+weight = 3
+[[Languages.en.menu.main]]
+name = "Offical Marketplace"
+pre = "#"
+url = "contact"
+weight = 3
+[[Languages.en.menu.main]]
 name = "Contact"
-pre = "#"
-url = "contact"
-weight = 3
-[[Languages.en.menu.main]]
-name = "Exchange"
-pre = "#"
-url = "contact"
-weight = 3
-[[Languages.en.menu.main]]
-name = "Marketplace"
-pre = "#"
-url = "contact"
-weight = 3
-[[Languages.en.menu.main]]
-name = "Resellers"
 pre = "#"
 url = "contact"
 weight = 3
