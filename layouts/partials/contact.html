@@ -38,14 +38,7 @@
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
 				
-				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form" onsubmit="
-					var form_url = '{{ .form_action }}';
-					form_url+= '{{ .nameid }}=' + document.getElementById('name').value;
-					form_url+= '&{{ .emailid }}=' + document.getElementById('email').value;
-					form_url+= '&{{ .messageid }}=' + document.getElementById('message').value;
-					console.log(form_url);
-					window.open(form_url, '_blank');
-					return false;">
+				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form" >
 					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" class="form-control" name="{{ .nameid }}" id="name">
 					</div>
