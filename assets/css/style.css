@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #72a7d6;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 }
 
 pre {
-  color: #afbac4;
+  color: #72a7d6;
 }
 
 /*=================================================================
@@ -809,7 +809,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #2c9091;
+  color: #fff900;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -820,7 +820,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #2c9091;
+  color: #00ff3a;
   font-size: 30px;
 }
 
@@ -1003,7 +1003,7 @@ a:hover {
 .skill-bar p span {
   font-style: italic;
   font-size: 30px;
-  color: rgba(240, 238, 238, 0.34);
+  color: #ddd;
   display: inline-block;
   vertical-align: middle;
 }
@@ -1128,7 +1128,7 @@ a:hover {
 }
 
 .client-comment p {
-  color: #afbac4;
+  color: #72a7d6;
   font-size: 18px;
 }
 
@@ -1490,7 +1490,7 @@ a:hover {
 }
 
 .post-comment-name {
-  color: #afbac4;
+  color: #72a7d6;
   font-weight: 500;
   font-size: 18px;
 }
