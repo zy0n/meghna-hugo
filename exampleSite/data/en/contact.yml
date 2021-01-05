@@ -19,10 +19,9 @@ contact:
 
   # Contact form
   contact_form:
-    enable : false
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
+    enable : true
+    form_action : "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQ6oJoiKDMyvleq0fcXeRReC3XVNkm942E_ak4ZmPN0izmBA/formResponse" #contact form works with https://formspree.io
+    entry.2005620554 : "Your Name"
+    entry.1045781291 : "Your Email"
+    entry.839337160 : "Message"
     submit : "Submit"
