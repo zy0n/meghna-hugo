@@ -139,7 +139,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #2c9091;
+  background-color: #565a5d;
 }
 
 .color {
@@ -1021,7 +1021,8 @@ a:hover {
 }
 
 .skill-bar .progress .progress-bar {
-  background: #2c9091;
+  background: #6cb670;
+  /* 2c9091*/
 }
 
 /*=================================================================
