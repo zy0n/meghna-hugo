@@ -15,7 +15,7 @@ html {
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #ddd;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -809,7 +809,7 @@ a:hover {
 }
 
 .price-title h3 {
-  color: #fff900;
+  color: #28a745;
   margin: 0 0 10px;
   text-transform: uppercase;
 }
@@ -820,7 +820,7 @@ a:hover {
 }
 
 .price-title .value {
-  color: #00ff3a;
+  color: #ffc107;
   font-size: 30px;
 }
 

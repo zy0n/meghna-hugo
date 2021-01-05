@@ -4,9 +4,9 @@ pricing:
   title : Our Plans
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Starter
+      price : 0.04
+      unit : btc
       services:
         - 1GB Disk Space
         - 10 Email Account
@@ -19,9 +19,9 @@ pricing:
         link : "#"
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Standard
+      price : 0.1
+      unit : btc
       services:
         - 1GB Disk Space
         - 10 Email Account
@@ -34,9 +34,9 @@ pricing:
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
+    - name : Pro
+      price : 0.15
+      unit : btc
       services:
         - 1GB Disk Space
         - 10 Email Account
@@ -49,9 +49,9 @@ pricing:
         link : "#"
         
     # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
+    - name : Ultimate
+      price : 0.25
+      unit : btc
       services:
         - 1GB Disk Space
         - 10 Email Account
