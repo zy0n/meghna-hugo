@@ -422,7 +422,7 @@ a:hover {
   color: #2c9091;
 }
 
-.nav-link {
+.navbar-dark .navbar-nav .nav-link {
   color: #ffffff;
 }
 
