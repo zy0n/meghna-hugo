@@ -8,19 +8,19 @@ skill:
   skill_item :
     # skill item loop
     - name : Beautiful Dashboard & Design
-      percent : 55%
+      percent : 20%
       
     # skill item loop
     - name :  Build dynamic strategies based on the evolving markets!
-      percent : 92%
+      percent : 40%
       
     # skill item loop
     - name :  Multiple TRAILING systems
-      percent : 50%
+      percent : 60%
       
     - name :  Reversal Trading & Dollar Cost Average(DCA) 
-      percent : 70%
+      percent : 80%
       
     # skill item loop
     - name :  Market-Maker & Arbitrage Bots
-      percent : 60%
+      percent : 100%
