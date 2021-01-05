@@ -1,8 +1,8 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Reseller
-  subtitle : Zy0NBear's Details
+  title : Contact Your Reseller
+  subtitle : Zy0NBear
   content : 
 
   # Contact details
@@ -19,7 +19,7 @@ contact:
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : "#" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
