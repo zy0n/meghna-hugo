@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : Why Choose GUNBOT
+  title : "Why Choose GUNBOT"
   about_item :
   - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
     title : A Complete Solution for Crypto Trading

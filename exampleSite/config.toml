@@ -34,8 +34,8 @@ url = "https://exchange.gunthy.org/"
 weight = 3
 [[Languages.en.menu.main]]
 name = "Offical Marketplace"
-pre = "#"
-url = "contact"
+pre = ""
+url = "https://marketplace.gunthy.io/"
 weight = 3
 [[Languages.en.menu.main]]
 name = "Contact"
