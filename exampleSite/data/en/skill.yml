@@ -3,24 +3,24 @@ skill:
   enable : true
   title : Portfolio Growth
   subtitle : Let your money work for you.
-  content : Support automated trading on spot and margin exchanges. You can use both trends following as mean reversal based strategies. Full customization possible by executing trades through TradingView alerts.
+  content : Support for automated trading on spot and margin exchanges. You can follow both trends as mean reversal based strategies. Full customization is possible by executing trades through TradingView alerts.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
     - name : Beautiful Dashboard & Design
-      percent : 80%
+      percent : 50%
       
     # skill item loop
     - name :  Build dynamic strategies based on the evolving markets!
-      percent : 75%
-      
-    # skill item loop
-    - name :  Multiple TRAILING systems
-      percent : 80%
-      
-    - name :  Reversal Trading & Dollar Cost Average(DCA) 
       percent : 90%
       
     # skill item loop
+    - name :  Multiple TRAILING systems
+      percent : 45%
+      
+    - name :  Reversal Trading & Dollar Cost Average(DCA) 
+      percent : 70%
+      
+    # skill item loop
     - name :  Market-Maker & Arbitrage Bots
-      percent : 100%
+      percent : 50%
