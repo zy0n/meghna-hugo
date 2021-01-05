@@ -1,17 +1,19 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Choose Your License
   pricing_table :
     # pricing table loop
-    - name : Starter
-      price : 0.04
-      unit : btc
+    - name : Starter License
+      price : Ƀ 0.04
+      unit : ɃTC
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
+        - ✅ 1 API Slot
+        - All Supported Exchanges
+        - Unlimited Pairs
+        - Unlimited Trade Count
+        - NO Margin Trading
+        - Limited Trading Strategies
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
@@ -20,8 +22,8 @@ pricing:
       
     # pricing table loop
     - name : Standard
-      price : 0.1
-      unit : btc
+      price : Ƀ 0.1
+      unit : ɃTC
       services:
         - 1GB Disk Space
         - 10 Email Account
@@ -35,8 +37,8 @@ pricing:
         
     # pricing table loop
     - name : Pro
-      price : 0.15
-      unit : btc
+      price : Ƀ 0.15
+      unit : ɃTC
       services:
         - 1GB Disk Space
         - 10 Email Account
@@ -50,8 +52,8 @@ pricing:
         
     # pricing table loop
     - name : Ultimate
-      price : 0.25
-      unit : btc
+      price : Ƀ 0.25
+      unit : ɃTC
       services:
         - 1GB Disk Space
         - 10 Email Account
