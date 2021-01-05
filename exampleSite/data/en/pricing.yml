@@ -4,7 +4,7 @@ pricing:
   title : Choose Your License
   pricing_table :
     # pricing table loop
-    - name : Starter License
+    - name : Starter
       price : Ƀ 0.04
       unit : ɃTC
       services:
