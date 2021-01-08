@@ -5,10 +5,10 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Official Gunbot Reseller"
+title = "GUNBOT Official Reseller"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright zy0nbear 2021"
+copyright = "Copyright zy0NBear 2021"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -23,9 +23,9 @@ pre = "#"
 url = "pricing"
 weight = 2
 [[Languages.en.menu.main]]
-name = "Addons"
-pre = "#"
-url = "contact"
+name = "Demo"
+pre = ""
+url = "https://demo.gunbotreseller.com"
 weight = 3
 [[Languages.en.menu.main]]
 name = "GUNTHY Exchange"
