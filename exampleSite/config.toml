@@ -31,17 +31,17 @@ weight = 3
 name = "GUNTHY Exchange"
 pre = ""
 url = "https://exchange.gunthy.org/"
-weight = 3
+weight = 4
 [[Languages.en.menu.main]]
 name = "Offical Marketplace"
 pre = ""
 url = "https://marketplace.gunthy.io/"
-weight = 3
+weight = 5
 [[Languages.en.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 3
+weight = 6
 [params]
 author = "zy0n"
 description = "Official GUNBOT Reseller webpage."
