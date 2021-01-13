@@ -25,7 +25,7 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "Demo"
 pre = ""
-url = "https://demo.gunbotreseller.com"
+url = "http://demo.gunbotreseller.com"
 weight = 3
 [[Languages.en.menu.main]]
 name = "GUNTHY Exchange"
