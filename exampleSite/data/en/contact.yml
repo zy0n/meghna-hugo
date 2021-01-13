@@ -21,9 +21,9 @@ contact:
   contact_form:
     enable : true
     form_action : "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQ6oJoiKDMyvleq0fcXeRReC3XVNkm942E_ak4ZmPN0izmBA/formResponse?" #contact form works with https://formspree.io
-    nameid: "entry.2005620554"
-    emailid: "entry.1045781291"
-    messageid: "entry.839337160"
+    nameid: "Name"
+    emailid: "Email"
+    messageid: "Message"
     name: "Your Name"
     email: "Your Email"
     message: "Message"
